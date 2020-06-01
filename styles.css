@@ -1,5 +1,6 @@
 body {
     background: aqua;
-    border: 5px dotted limegreen;
+    border: 5px solid hotpink;
+    min-height: 96vh;
 
 }
